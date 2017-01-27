@@ -29,11 +29,11 @@ html {
   width: 100%;
   color: #fff;
   overflow: hidden;
-  max-height: 500px;
+  max-height: 24rem;
 }
 
 .banner-content {
   position: absolute;
-  bottom: 10%;
-  left: ;
+  bottom: 1.5rem;
+  left: 0;
 }
